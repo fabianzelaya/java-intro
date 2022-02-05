@@ -39,10 +39,12 @@ C:\Users\Your Name>java -version
 
 //My Mac environment
 
-> openjdk version "11.0.10" 2021-01-19
-> OpenJDK Runtime Environment (build 11.0.10+9)
-> OpenJDK 64-Bit Server VM (build 11.0.10+9, mixed mode)
-> // - $ exit -> [Process completed]
+```
+openjdk version "11.0.10" 2021-01-19
+OpenJDK Runtime Environment (build 11.0.10+9)
+OpenJDK 64-Bit Server VM (build 11.0.10+9, mixed mode)
+// - $ exit -> [Process completed]
+```
 
 ## Thanks for watching!
 
