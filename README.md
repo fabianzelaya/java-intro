@@ -8,6 +8,16 @@ Java is portable, robust, and dynamic, with the ability to fit the needs of virt
 
 Java has a huge developer community.
 
+## It is used for:
+
+- Mobile applications (specially Android apps)
+- Desktop applications
+- Web applications
+- Web servers and application servers
+- Games
+- Database connection
+- And much, much more!
+
 ## Thanks for watching!
 
 If you liked my coding then follow me on my [Instagram](https://www.instagram.com/fabianzelayahn/) account.
