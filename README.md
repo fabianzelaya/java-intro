@@ -51,6 +51,8 @@ OpenJDK 64-Bit Server VM (build 11.0.10+9, mixed mode)
 
 If you do not have Java installed on your computer, you can download it for free at [oracle.com](https://www.oracle.com/java/technologies/java-se-glance.html).
 
+`Note:` In this tutorial, we will write Java code in [Visual Studio Code](https://code.visualstudio.com).
+
 ## Thanks for watching!
 
 If you liked my coding then follow me on my [Instagram](https://www.instagram.com/fabianzelayahn/) account.
