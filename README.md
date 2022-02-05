@@ -53,6 +53,12 @@ If you do not have Java installed on your computer, you can download it for free
 
 `Note:` In this tutorial, we will write Java code in [Visual Studio Code](https://code.visualstudio.com). However, it is possible to write Java in an Integrated Development Environment, such as [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Netbeans](https://netbeans.apache.org) or [Eclipse](https://www.eclipse.org/eclipseide/), which are particularly useful when managing larger collections of Java files.
 
+###### [Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java)
+
+Support for Java in Visual Studio Code is provided through a wide range of [extensions](https://code.visualstudio.com/docs/java/extensions). Combined with the power of core VS Code, these extensions give you a lightweight and performant code editor that also supports many of the most common Java development techniques.
+
+This article will give you an overview of different capabilities of Visual Studio Code for Java developers. For a quick walkthrough of editing, running, and debugging a Java program with Visual Studio Code, [Java Getting Started](https://code.visualstudio.com/docs/java/java-tutorial).
+
 ## Thanks for watching!
 
 If you liked my coding then follow me on my [Instagram](https://www.instagram.com/fabianzelayahn/) account.
