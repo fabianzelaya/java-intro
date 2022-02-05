@@ -35,16 +35,21 @@ Some PCs might have Java already installed.
 
 To check if you have Java installed on a Windows PC, search in the start bar for Java or type the following in Command Prompt (cmd.exe):
 
+```
 C:\Users\Your Name>java -version
+```
 
-//My Mac environment
+If Java is installed, you will see something like this (depending on version):
 
 ```
+//My Mac environment
 openjdk version "11.0.10" 2021-01-19
 OpenJDK Runtime Environment (build 11.0.10+9)
 OpenJDK 64-Bit Server VM (build 11.0.10+9, mixed mode)
 // - $ exit -> [Process completed]
 ```
+
+If you do not have Java installed on your computer, you can download it for free at [oracle.com](https://www.oracle.com/java/technologies/java-se-glance.html).
 
 ## Thanks for watching!
 
